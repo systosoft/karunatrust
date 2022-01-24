@@ -1,0 +1,136 @@
+.container-fliud {
+    /* position: fixed; */
+    overflow: hidden;
+    top: 15%;
+}
+.container.dash-container {
+    position: relative !important;
+}
+
+.buttonregister{
+    float:right;
+}
+.left-menu {
+    /* margin-top: 82px; */
+    left: 0px;
+    width: 215px;
+    height: auto;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 3px 1px 3px #0000000F;
+    opacity: 1;
+    color: #000 !important;
+    height: 520px !important;
+    /* position: relative; */
+}
+.pd-l{
+   
+    padding: 2%;
+    border-bottom: 1px solid #ccc;
+}
+
+.left-menu i {
+    width: 30px;
+    margin: 1px 8px 1px 0px;
+    font-size: 20px;
+    font-family: "Source Sans Pro";
+    color: #000 !important
+}
+
+.group-list {
+    padding: 0.5rem 0rem !important;
+   
+    font-size: 18px;
+    font-family: "Source Sans Pro";
+    text-decoration: none;
+    width: 200px;
+    
+}
+.buttonregister button{
+    background: linear-gradient(to right,#5093A2,#1B4A5D) !important;
+    font-size: 13px !important;
+    border-radius: 20px;
+    border: none;
+}
+.arrow-img{
+    float:right;
+    clear: both;
+   
+}
+.arrow-img img{
+   clear: both;
+    padding-right: 20%;
+    margin-top: 5%;
+}
+.left-menu a {
+  
+    font-size: 18px;
+    font-family: "Source Sans Pro";
+    text-decoration: none;
+    color: black !important;
+    float: left;
+    
+}
+
+.navbar a:focus,
+.navbar a.active,
+.left-menu i:focus,
+.left-menu i.active {
+    color: #2D5986 !important;
+}
+.card-style{
+  width: 100% !important;
+  border: none !important;
+    margin-top: 120px;
+    background: #252525 0% 0% no-repeat padding-box;
+border-radius: 8px 0px 0px 8px;
+opacity: 1;
+color: #fff;
+font-family: Source Sans Pro;
+}
+.card-clr{
+    background-color: black !important;
+   
+}
+.img-greeting{
+background: transparent linear-gradient(181deg, #0c040433 0%, #25252533 100%) 0% 0% no-repeat padding-box ;
+font-family: Source Sans Pro;
+border-radius: 0px 8px 8px 0px;
+opacity: 0.6;
+margin-top: 120px !important;
+color: #fff;
+clear: both;
+text-align: center;
+padding-top: 10px;
+}
+
+/* .row{
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+    padding-left:  0px !important;
+    padding-right:  0px !important;
+}
+.row>* {
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+    padding-left:  0px !important;
+    padding-right:  0px !important;
+
+} */
+.div-ht{
+    height: 212px !important;
+    margin-top: 200px;
+    clear: both;
+}
+.txt-cntr{
+    text-align:center ;
+    clear: both;
+    margin-top: 2%;
+    font-family: "Source Sans Pro";
+}
+.top-100{
+    margin-top: 40px;
+    float: left;
+    color: #252525;
+    font-size: 18px;
+    font-family: "Source Sans Pro";
+}

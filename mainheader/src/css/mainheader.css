@@ -1,0 +1,53 @@
+.header{
+    position:sticky;
+    height: 80px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    z-index: 1111;
+    
+    }
+    img.d-inline-block.logo.img-fluid{
+        width: 215px;
+        height: 76px !important;
+    }
+    .admin-tag{
+       
+    text-align: left;
+    font-size: 18px;
+    font-family: "Source Sans Pro";
+    letter-spacing: 0px;
+    color: #000000 !important;
+    opacity: 1;
+    }
+    .row{
+        margin-right: 0px !important;
+        margin-left: 0px !important;
+    }
+    .admin-img{
+        background: transparent url('../../public/img/admin.png') 0% 0% no-repeat padding-box;
+    border: 1px solid #7070704D;
+    opacity: 1;
+    width: 48px;
+    height: 48px;
+    border-radius: 50%;
+    }
+    
+    
+    .logut-tag{
+        text-decoration: underline;
+    font-size: 18px;
+    font-family: "Source Sans Pro";
+    letter-spacing: 0px;
+    color: #2D5986 !important;
+    opacity: 1;
+    margin-top: 10px;
+    border-left: 2px solid grey;
+     
+    }
+    .dropdown-toggle{
+        width:100px !important;
+    }
+    .mt{
+        margin-top: 100px;
+    }

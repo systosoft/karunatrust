@@ -1,0 +1,170 @@
+#icon2{
+    /* margin-right:20px */
+    align-items: center;
+    text-align: center;
+}
+Button.onhover:hover .bg {
+    background: red;
+
+}
+/* Placeholder */
+::-webkit-input-placeholder { /* Edge */
+    font-size:16px;
+}
+
+:-ms-input-placeholder { /* Internet Explorer */
+    font-size:16px;
+}
+::placeholder {
+    font-size:12px;
+}
+/* Placeholder */
+/* hide / show button */
+a.button {
+    cursor: pointer;
+}
+/* hide / show button */
+img.logo {
+    height: 53px;
+    width: 150px;
+}
+.img-fluid{
+    height:450px !important;
+}
+@media (min-width: 320px) and (max-width: 480px) {
+    nav.navbar.navbar-expand.navbar-light {
+        box-shadow: 0 3px #00000029;
+    }
+    label.form-label {
+        margin: 0 0 5px 10px;
+    }
+    input#exampleInputEmail1, #exampleInputPassword1 {
+        height: 30px;
+        width: 230px;
+        margin: 0 0 0 10px;
+    }
+    .input-cont {
+        position: relative;
+        display: inline-block;
+    }
+    .input-cont a {
+        position: absolute;
+        right: 10px;
+        top: 5px;
+        font-size: 12px;
+    }
+    .left.col-8 {
+        width: 100%;
+        margin: 0px 0 0 -10px;
+    }
+}
+@media (min-width: 481px) and (max-width: 768px) {
+    
+}
+@media (min-width: 769px) and (max-width: 1024px) {
+   
+}
+@media (min-width: 1025px) and (max-width: 1200px) {
+    nav.navbar.navbar-expand.navbar-light {
+        box-shadow: 0 2px #00000029;
+        margin: 0 0 0 -2px;
+        height: 53px;
+    }
+    h4{
+        font-size: 30px !important;
+    }
+    input#exampleInputEmail1, #exampleInputPassword1 {
+        height: 30px;
+        width: 230px;
+        margin: 0 0 0 10px;
+    }
+    .input-cont {
+        position: relative;
+        display: inline-block;
+    }
+    .input-cont a {
+        position: absolute;
+        right: 10px;
+        top: 5px;
+        font-size: 12px;
+    }
+    button.btn.btn-primary {
+        background: #2D5986 0% 0% no-repeat padding-box;
+        border-radius: 20px;
+        opacity: 1;
+        text-align: center;
+        padding: 4px 39px;
+        text-transform: uppercase;
+        font-size: 11px;
+    }
+    .mb-3.btn {
+        margin: 0 0 0 45px;
+    }
+    form {
+        width: 250px;
+        margin: 40px 0 15px 30px;
+        background-color: lightblue;
+    }
+    label.form-label {
+        font-size: 13px;
+        margin: 0 0 5px 12px;
+    }
+    .loginscreen.col-4 {
+        margin-top: 59px;
+    }
+}
+@media (min-width: 1201px) {
+    nav.navbar.navbar-expand.navbar-light {
+        box-shadow: 0 2px #00000029;
+        margin: 0 0 0 -2px;
+        height: 53px;
+    }
+    h4{
+        font-size: 30px !important;
+    }
+    input#exampleInputEmail1, #exampleInputPassword1 {
+        height: 30px;
+        width: 230px;
+        margin: 0 0 0 10px;
+    }
+    .input-cont {
+        position: relative;
+        display: inline-block;
+    }
+    .input-cont a {
+        position: absolute;
+        right: 10px;
+        top: 5px;
+        font-size: 12px;
+    }
+    button.btn.btn-primary {
+        background: #2D5986 0% 0% no-repeat padding-box;
+        border-radius: 20px;
+        opacity: 1;
+        text-align: center;
+        padding: 4px 39px;
+        text-transform: uppercase;
+        font-size: 11px;
+    }
+    .mb-3.btn {
+        margin: 0 0 0 45px;
+    }
+    form {
+        width: 250px;
+        margin: 40px 0 15px 30px;
+        background-color: lightblue;
+    }
+    label.form-label {
+        font-size: 13px;
+        margin: 0 0 5px 12px;
+    }
+    .loginscreen.col-4 {
+        margin-top: 59px;
+    }
+    .loginscreen.col-4 {
+        margin-top: 59px;
+    }
+    i.bi.bi-back {
+        float: right;
+    }
+}
