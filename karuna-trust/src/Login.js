@@ -42,7 +42,7 @@ export default function Login(){
             localStorage.setItem("auth",authtoken)
             // setLoggedIn(false);
 
-            // history.push("/rootpage")
+            history.push("/rootpage")
             // window.location.href = "/dashboard";
             
           },
